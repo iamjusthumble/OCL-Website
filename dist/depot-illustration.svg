@@ -1,0 +1,28 @@
+<svg width="1400" height="1100" viewBox="0 0 1400 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1100" fill="#DDE8DF"/>
+  <rect y="790" width="1400" height="310" fill="#C4D5C7"/>
+  <path d="M0 790L1400 665V1100H0V790Z" fill="#B5C9BA" opacity=".7"/>
+  <path d="M180 790V420L610 225L1045 420V790H180Z" fill="#0A6B2D"/>
+  <path d="M180 420L610 225L1045 420" stroke="#054A1E" stroke-width="24"/>
+  <path d="M230 438L610 270L995 438V490H230V438Z" fill="#E5EFE7"/>
+  <rect x="260" y="540" width="260" height="250" fill="#064A20"/>
+  <rect x="575" y="540" width="180" height="250" fill="#F4F2EE"/>
+  <rect x="810" y="540" width="170" height="250" fill="#064A20"/>
+  <rect x="282" y="566" width="216" height="224" fill="#102D19"/>
+  <path d="M305 790V635C305 607 327 585 355 585H425C453 585 475 607 475 635V790H305Z" fill="#6F4B2D"/>
+  <path d="M333 790V651C333 628 351 610 374 610H406C429 610 447 628 447 651V790H333Z" fill="#9A6A3B"/>
+  <g opacity=".98">
+    <path d="M620 762C607 729 610 673 626 647C646 615 684 616 702 647C718 674 720 729 706 762C690 783 637 783 620 762Z" fill="#9B6A3B"/>
+    <path d="M633 753C625 723 628 681 641 660C655 638 674 639 688 660C701 681 704 723 696 753C681 768 648 768 633 753Z" fill="#B8834B"/>
+    <path d="M818 762C805 729 808 673 824 647C844 615 882 616 900 647C916 674 918 729 904 762C888 783 835 783 818 762Z" fill="#8D5E35"/>
+    <path d="M831 753C823 723 826 681 839 660C853 638 872 639 886 660C899 681 902 723 894 753C879 768 846 768 831 753Z" fill="#B07840"/>
+  </g>
+  <path d="M1010 794H1260V650L1140 580L1010 650V794Z" fill="#D8232A"/>
+  <path d="M1025 657L1140 590L1245 657" stroke="#A5161E" stroke-width="20"/>
+  <rect x="1040" y="692" width="72" height="102" fill="#F4F2EE"/>
+  <rect x="1155" y="692" width="72" height="102" fill="#F4F2EE"/>
+  <rect x="0" y="842" width="1400" height="9" fill="#0A6B2D" opacity=".75"/>
+  <circle cx="120" cy="932" r="34" fill="#054A1E" opacity=".75"/>
+  <circle cx="120" cy="932" r="13" fill="#E5EFE7"/>
+  <path d="M108 881C80 835 94 792 137 775C174 817 162 862 108 881Z" fill="#0A6B2D" opacity=".7"/>
+</svg>

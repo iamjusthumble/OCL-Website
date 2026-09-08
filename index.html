@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0A6B2D" />
+    <meta name="description" content="Okatakyie Commodities Ltd — a Ghanaian cocoa buying company built on trust, speed and traceability." />
+    <link rel="icon" type="image/png" href="/ocl-logo.png" />
+    <title>Okatakyie Commodities Ltd | Cocoa buying you can count on</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module">
+      import('/src/main.tsx').catch((error) => {
+        document.body.dataset.bootError = String(error?.stack || error)
+        console.error('OCL app failed to boot', error)
+      })
+    </script>
+  </body>
+</html>
